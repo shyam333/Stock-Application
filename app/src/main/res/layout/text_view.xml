@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/listitem1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/border_color"
+        android:gravity="start"
+        android:text="TextView"
+        android:fontFamily="sans-serif"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/listitem2"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@android:color/background_light"
+        android:gravity="start"
+        android:text="TextView"
+        android:fontFamily="sans-serif"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/listitem3"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@android:color/background_light"
+        android:gravity="start"
+        android:text="TextView"
+        android:fontFamily="sans-serif"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/listitem4"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@android:color/background_light"
+        android:gravity="start"
+        android:text="TextView"
+        android:fontFamily="sans-serif"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/listitem5"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@android:color/background_light"
+        android:gravity="start"
+        android:text="TextView"
+        android:fontFamily="sans-serif"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/listitem6"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@android:color/background_light"
+        android:gravity="start"
+        android:text="TextView"
+        android:fontFamily="sans-serif"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+</LinearLayout>
